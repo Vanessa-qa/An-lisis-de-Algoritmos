@@ -1,0 +1,9 @@
+Equipo Amarillo: Compresor de Canciones
+Gutierrez Vazquez Axel
+Hernandez Macias Axxel Gael
+Quintero Arreola Laura Vanessa
+
+Entrega del avance
+- Asignar todas las actividades correspondientes a cada intregante
+- Añadir un reproductor del resultado dentro de la GUI
+- Elaborar las bases teoricas del reporte
